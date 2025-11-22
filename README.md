@@ -107,7 +107,12 @@ Node.js, Express.js, TypeScript, MongoDB, Mongoose, JWT, Zod
 
 ## 📈 GitHub Stats
 
-![Ashif's GitHub Activity](https://github-readme-stats.vercel.app/api?username=mohammadashif007&show_icons=true&theme=dark)
+![Ashif's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mohammadashif007&theme=github)
+
+
+
+
+
 
 ---
 
