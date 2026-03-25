@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Ashif 👋
 
-🚀 **Junior Backend Developer | Node.js | TypeScript | API Architecture Enthusiast**
+🚀 **Backend Developer | Node.js | TypeScript | API Architecture Enthusiast**
 
 I am a dedicated backend-focused developer with strong experience in building secure, scalable, and maintainable web applications. I specialize in crafting RESTful APIs, designing efficient database schemas, and implementing robust authentication systems. My goal is to contribute to production-ready systems that solve real-world problems with clean code and solid architecture.
 
@@ -99,7 +99,7 @@ Node.js, Express.js, TypeScript, MongoDB, Mongoose, JWT, Zod
 
 ## 📫 Connect With Me
 
-* 📧 Email: [yourmail@gmail.com](mohammad.ashif.pn@gmail.com)
+* 📧 Email: [yourmail@gmail.com](ashifxp007@gmail.com)
 * 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anik-m-ashif/)
 * 🌐 Portfolio: (Coming Soon)
 
